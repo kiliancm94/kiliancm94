@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiliancm94
-- 👀 I’m interested in python, data science and machine learning.
-- 🌱 I’m currently learning python and data science.
-- 💞️ I’m looking to collaborate on DRL projects.
+- 👀 I’m interested in Python, data science, machine learning and blockchain.
+- 🌱 I’m currently learning machine learning and blockchain.
+- 💞️ I’m looking to collaborate on machine learning and blockchain projects.
 - 📫 How to reach me kilian.cm.94@gmail.com
 
 <!---
